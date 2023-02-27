@@ -1,7 +1,7 @@
 # Js-Timer-Stopwatch
 
 ## The following tools/languages will be used in this project;
-***Javascript**<br>
+***Vanilla Javascript**<br>
 ***HTML**<br>
 ***CSS**
 
